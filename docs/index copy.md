@@ -1,3 +1,7 @@
+Title:   Home
+Authors: Oli Newsham
+Date:    2022-03-18
+
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
@@ -15,3 +19,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+--8<-- "includes/abbreviations.md"
