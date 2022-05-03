@@ -5,7 +5,10 @@ theme:
     - navigation.instant
     - navigation.tabs
     - navigation.sections
+    - navigation.tabs.sticky
+    - navigation.indexes
     - toc.integrate
+    - toc.follow
     - search
     - content.tabs.link
   icon:
@@ -22,6 +25,17 @@ theme:
       bug: octicons/bug-16
       example: octicons/beaker-16
       quote: octicons/quote-16
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
 markdown_extensions:
   - admonition
   - abbr
@@ -32,3 +46,18 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/StashhApp
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/DGVPXfWXgz
+    - icon: fontawesome/brands/github
+      link: https://github.com/stashh-labs
+    - icon: fontawesome/solid/blog
+      link: https://stashh.substack.com/
+repo_url: https://github.com/stashh-labs/stashh-docs
+repo_name: stashh-labs/stashh-docs
+edit_uri: edit/main/docs/
+nav:
+    - Home: 'index.md'
