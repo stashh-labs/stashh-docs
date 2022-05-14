@@ -46,6 +46,11 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 extra:
   social:
     - icon: fontawesome/brands/twitter
@@ -59,5 +64,3 @@ extra:
 repo_url: https://github.com/stashh-labs/stashh-docs
 repo_name: stashh-labs/stashh-docs
 edit_uri: edit/main/docs/
-nav:
-    - Home: 'index.md'
