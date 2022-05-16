@@ -1,4 +1,11 @@
-# Content Encryption
+---
+title: Content Encryption
+hide:
+  - navigation
+  - toc
+---
+
+# Encrypting Content for Stashh
 
 Stashh uses `AES-256-GCM` to encrypt and decrypt content using a symmetric key.
 
@@ -6,7 +13,7 @@ Stashh uses `AES-256-GCM` to encrypt and decrypt content using a symmetric key.
 
 When an NFT is created on Stashh encryption and decryption are handled automatically.
 
-Private assets are encrypted when they are uploaded, and the decryption key is automatically embdeeded into the NFT when it is created. Similarly, when an owner views their NFT the private assets are seamlessly decrypted and displayed.
+Private assets are encrypted when they are uploaded, and the decryption key is automatically embedded into the NFT when it is created. Similarly, when an owner views their NFT the private assets are seamlessly decrypted and displayed.
 
 Public assets are uploaded unencrypted.
 
