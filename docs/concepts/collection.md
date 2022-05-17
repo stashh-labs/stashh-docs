@@ -1,0 +1,13 @@
+---
+title: Collection
+---
+
+# Collection
+
+A collection is a container that groups related NFTs together into a single place.
+
+## Usage
+
+_noun_
+
+Collection, Collections.
