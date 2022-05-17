@@ -1,8 +1,5 @@
 ---
 title: Content Encryption
-hide:
-  - navigation
-  - toc
 ---
 
 # Encrypting Content for Stashh
