@@ -64,7 +64,7 @@ This value does not have to be globally unique.
 
 This allows you to set up the default [royalties](../concepts/royalty.md) for the collection that will be applied to any new NFTs created within it. 
 
-The addresses and percentages you set here will be automatically populated when you enable royalties for an NFT in this collection.
+The addresses and percentages you set here will be automatically populated when you enable royalties for a NFT in this collection.
 
 !!! warning
     You must still enable Royalties for each NFT.
