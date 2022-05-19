@@ -4,7 +4,7 @@ title: Set Transaction Fee and Gas
 
 # Set Transaction Fee and Gas
 
-On Secret Network the Transaction Fee and Gas are separate concepts. Changing the 
+On Secret Network the Transaction Fee and Gas are separate concepts.
 
 ## Transaction Fee
 
