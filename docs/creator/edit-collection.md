@@ -5,10 +5,8 @@ title: Edit a Collection
 # Edit a Collection
 
 1. Make sure you are authenticated with the wallet that owns the collection then click the Account icon on the navigation bar.
-2. Click **Dashboard**
-3. Click either your wallet address or the name of your profile in the top left corner.
-4. Click the **Created** tab
-5. Click the Collection you would like to edit
+2. Click **Created Collections**
+4. Click the Collection you would like to edit
 5. Click the **Edit Collection** button in the top right corner
 
 ## Configuration
