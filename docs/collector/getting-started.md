@@ -4,11 +4,11 @@ title: Getting Started
 
 # Getting Started on Stashh
 
-## Connect your Wallet
+## Connect your Wallet & Authenticate
 
 Before you can use Stashh you need to connect your wallet. You only need to do this once.
 
-1. Your wallet will pop up a message asking if you would like to connect to `secret-4`. Click **Approve**
+1. Your wallet will pop up a message asking if you to connect to `secret-4`. Click **Approve**
 
     === "Keplr"
 
@@ -18,7 +18,7 @@ Before you can use Stashh you need to connect your wallet. You only need to do t
 
     ![Account menu showing the authenticate button](../images/account-menu-unauthenticated.png)
 
-3. Read the message that pops up then click **Authenticate Wallet**
+3. Check the message that pops up then click **Authenticate Wallet**
 4. Your wallet will ask you to create a Permit. Click **Approve**
 
     === "Keplr"
