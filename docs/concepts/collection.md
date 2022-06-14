@@ -4,7 +4,7 @@ title: Collection
 
 # Collection
 
-A collection is a container that groups related NFTs together into a single place.
+A collection is a container that groups related sNFTs together into a single place.
 
 ## Usage
 

@@ -11,11 +11,20 @@ title: Create a Collection
 1. Make sure you are authenticated with your whitelisted wallet then click the **Create** button on the navigation bar.
 2. Click the **Create New Collection** button.
 3. Customise your collection then click the **Create Collection** button.
-4. **Approve** the transaction and wait for it to complete.
-5. Click the **Create Permit for This Collection** button.
-6. **Approve** the permit creation request.
+4. Your wallet will ask you to Instantiate a Contract for the Collection. Click **Approve**
 
-## Customisation
+    === "Keplr"
+
+        ![Keplr requesting to  Instantiate a Contract](../images/keplr-instantiate-contract.png#zoom)
+
+5. Click the **Create Permit for This Collection** button.
+6. Your wallet will ask you to create a Permit. Click **Approve**
+
+    === "Keplr"
+
+    ![Keplr requesting a Permit](../images/keplr-query-permit.png#zoom)
+
+## Collection Properties
 
 ### Logo
 
@@ -62,12 +71,12 @@ This value does not have to be globally unique.
 
 #### Enable Royalties
 
-This allows you to set up the default [royalties](../concepts/royalty.md) for the collection that will be applied to any new NFTs created within it. 
+This allows you to set up the default [royalties](../concepts/royalty.md) for the collection that will be applied to any new sNFTs created within it. 
 
-The addresses and percentages you set here will be automatically populated when you enable royalties for a NFT in this collection.
+The addresses and percentages you set here will be automatically populated when you enable royalties for a sNFT in this collection.
 
 !!! warning
-    You must still enable Royalties for each NFT.
+    You must still enable Royalties for each sNFT.
 
 #### Hide Collection
 
@@ -76,7 +85,7 @@ When enabled this setting hides the collection and its contents from everyone ex
 !!! tip 
     To unhide your collection follow the instructions to [Reveal your Collection](reveal-collection.md)
 
-#### Hide NFT Ownership
+#### Hide sNFT Ownership
 
 When enabled this setting will cause the wallet address of the owner of all tokens within the collection to be private.
 
@@ -87,7 +96,7 @@ When enabled this setting will allow tokens in your collection to be [burnt](../
 !!! note
     Badges that are marked as non-transferable will always be [burnable](../concepts/burn.md) regardless of how this is set.
 
-#### Minter can change NFT metadata
+#### Minter can change sNFT metadata
 
  When enabled this setting will allow the metadata of tokens in the collection to be modified by the creator after the tokens have been minted. This is useful for dApps that need to update metadata, however it can be abused so we recommend that you leave this setting disabled unless you have a specific use case for it.
 

@@ -5,12 +5,12 @@ title: Royalties
 # Royalties
 
 !!! note
-    Royalties can be set only by the wallet that is both the Owner and Creator of an NFT
+    Royalties can be set only by the wallet that is both the Owner and Creator of a sNFT
 
-You can configure up to 5 royalty addresses on each NFT. To configure royalties on one of your NFTs
+You can configure up to 5 royalty addresses on each sNFT. To configure royalties on one of your sNFTs
 
 !!! tip
-    If you configure royalties on your Collection they will be automatically applied when you enable royalties on an NFT in the collection.
+    If you configure royalties on your Collection they will be automatically applied when you enable royalties on a sNFT in the collection.
 
 1. Enable the **Enable Royalties** toggle
 2. Input the Wallet Address the royalty should be paid to
@@ -28,11 +28,11 @@ Royalty payments are made in the same SNIP20 currency as the sale. This may not 
 
 It is possible to change Royalties after they have been configured if all of the following conditions are met...
 
-1. The NFT is not listed for sale
-2. The wallet making the change is the Creator of the NFT
-3. The wallet making the change is the Owner of the NFT
+1. The sNFT is not listed for sale
+2. The wallet making the change is the Creator of the sNFT
+3. The wallet making the change is the Owner of the sNFT
 
-In practice this makes it hard to change the royalty on an NFT after it has been sold.
+In practice this makes it hard to change the royalty on a sNFT after it has been sold.
 
 ## Off Platform & OTC Sales
 
