@@ -11,18 +11,18 @@ title: Create a Collection
 1. Make sure you are authenticated with your whitelisted wallet then click the **Create** button on the navigation bar.
 2. Click the **Create New Collection** button.
 3. Customise your collection then click the **Create Collection** button.
-4. Your wallet will ask you to Instantiate a Contract for the Collection. Click **Approve**
+4. Your wallet will ask to Instantiate a Contract for the Collection. Click **Approve**
 
     === "Keplr"
 
-        ![Keplr requesting to  Instantiate a Contract](../images/keplr-instantiate-contract.png#zoom)
+        ![Keplr requesting to  Instantiate a Contract](../images/keplr-instantiate-contract.png#pop)
 
 5. Click the **Create Permit for This Collection** button.
-6. Your wallet will ask you to create a Permit. Click **Approve**
+6. Your wallet will ask to create a Permit. Click **Approve**
 
     === "Keplr"
 
-    ![Keplr requesting a Permit](../images/keplr-query-permit.png#zoom)
+    ![Keplr requesting a Permit](../images/keplr-query-permit.png#pop)
 
 ## Collection Properties
 

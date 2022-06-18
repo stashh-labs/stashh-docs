@@ -24,7 +24,7 @@ Auction sales work within our standard Fees and Royalty schedule.
 
     === "Keplr"
 
-        ![Keplr requesting to Execute a Contract](../images/keplr-execute-contract-auction-create.png#zoom)
+        ![Keplr requesting to Execute a Contract](../images/keplr-execute-contract-auction-create.png#pop)
 
 !!! note 
     When you list a sNFT for sale it will be moved from your wallet into the auction contract escrow.
@@ -41,7 +41,7 @@ Auction sales work within our standard Fees and Royalty schedule.
 
     === "Keplr"
 
-        ![Keplr requesting to Execute a Contract](../images/keplr-execute-contract-auction-cancel.png#zoom)
+        ![Keplr requesting to Execute a Contract](../images/keplr-execute-contract-auction-cancel.png#pop)
     
 !!! tip
     When you cancel an auction your sNFT is automatically returned to your wallet.
@@ -68,7 +68,7 @@ To bid on a sNFT...
 
     === "Keplr"
 
-        ![Keplr requesting to Execute a Contract](../images/keplr-execute-contract-auction-bid.png#zoom)
+        ![Keplr requesting to Execute a Contract](../images/keplr-execute-contract-auction-bid.png#pop)
 
 !!! warning 
     When you bid on a sNFT the amount of your bid will be moved from your wallet into the auction contract escrow. This amount will be automatically returned to your wallet if you are outbid.

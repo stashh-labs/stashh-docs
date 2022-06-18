@@ -1,36 +1,18 @@
 img {
     height: auto;
     width: auto;
-    border: 1px solid #9f9f9f;
-    transition: transform ease-in-out 0.3s;
-    max-height: 350px;
-    max-width: 450px !important;
 }
 
-img[src*="#shadow"] {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-img:active[src*="#zoom"] {
-    cursor: zoom-out;
-    transform: scale(2.5);
-}
-
-img[src*="#zoom"] {
-    cursor: zoom-in;
-}
-
-img[src*="#center"] {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-img[src*="#no-border"] {
-    border: 0px;
-    width: 200px;
+img[src*="#pop"] {
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    border-radius: 10px;
+    margin: 10px 0;
 }
 
 a.md-logo img {
     border: none;
+}
+
+.md-footer__inner:not([hidden]) {
+    display: none
 }

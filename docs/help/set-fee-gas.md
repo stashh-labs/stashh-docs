@@ -30,7 +30,7 @@ If your transaction fails and the **Gas Used** is higher than the **Gas Wanted**
 
     === "Keplr"
 
-        ![Keplr fee and gas panel](../images/keplr-manual-gas.png#zoom)
+        ![Keplr fee and gas panel](../images/keplr-manual-gas.png#pop)
 
 ## Change Gas Fee
 

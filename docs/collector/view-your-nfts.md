@@ -18,11 +18,11 @@ There are a few different ways to create Permits and Viewing Keys for a Collecti
 When you buy a sNFT Stashh will pop up a prompt for you to create a Permit or Viewing Key for the Collection that the sNFT is in.
 
 1. Click the **Create Permit** button.
-2. Your wallet will ask you to create a Permit. Click **Approve**
+2. Your wallet will ask to create a Permit. Click **Approve**
 
     === "Keplr"
 
-    ![Keplr requesting a Permit](../images/keplr-query-permit.png#zoom)
+    ![Keplr requesting a Permit](../images/keplr-query-permit.png#pop)
 
 3. Click the **View Collection** button to see the sNFTs you own in the Collection
 
@@ -38,10 +38,10 @@ If you have previously bought a sNFT and it doesn't show up in your Inventory yo
 2. Click the **Add Collection** button
 3. Search for the name of the collection your sNFT belongs to and click it
 4. Click the **Create Permit** button
-5. Your wallet will ask you to create a Permit. Click **Approve**
+5. Your wallet will ask to create a Permit. Click **Approve**
 
     === "Keplr"
 
-    ![Keplr requesting a Permit](../images/keplr-query-permit.png#zoom)
+    ![Keplr requesting a Permit](../images/keplr-query-permit.png#pop)
 
 6. Click the **View Collection** button to view the sNFTs you own in this collection.

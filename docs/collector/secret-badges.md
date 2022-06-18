@@ -37,11 +37,11 @@ Before you can claim a badge you are whitelisted for you first need to check you
 1. Go to the badge you want to claim
 2. Click the **Check if I am Whitelisted** button
 3. A window will appear asking you to create a permit. Click the **Create Permit** button.
-4. Your wallet will ask you to create a Permit. Click **Approve**
+4. Your wallet will ask to create a Permit. Click **Approve**
 
     === "Keplr"
 
-        ![Keplr requesting a Permit](../images/keplr-query-permit.png#zoom)
+        ![Keplr requesting a Permit](../images/keplr-query-permit.png#pop)
 
 5. Once the permit has been created Stashh will check if you are on the whitelist and show the number of badges you can claim.
 
@@ -49,20 +49,20 @@ Before you can claim a badge you are whitelisted for you first need to check you
 
         If you are not on the whitelist Stashh will show **Not Whitelisted**. If you think this is a mistake you should contact the Creator of the collection.
 
-        ![The claim control when you are not whitelisted](../images/claim-control-not-whitelisted.png#zoom)
+        ![The claim control when you are not whitelisted](../images/claim-control-not-whitelisted.png#pop)
 
     === "Whitelisted"
 
         If you are whitelisted Stashh will show **Whitelisted** and the number of claims you can make.
 
-        ![The claim control when you are whitelisted](../images/claim-control-whitelisted.png#zoom)
+        ![The claim control when you are whitelisted](../images/claim-control-whitelisted.png#pop)
 
 6. Click **Claim Badge**
-7. Your wallet will ask you to perform a mint transaction. Click **Approve**
+7. Your wallet will ask to perform a mint transaction. Click **Approve**
 
     === "Keplr"
 
-        ![Keplr requesting to Mint](../images/keplr-mint-txn.png#zoom)
+        ![Keplr requesting to Mint](../images/keplr-mint-txn.png#pop)
 
 ## View a sBadge
 
