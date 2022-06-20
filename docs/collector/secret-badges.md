@@ -8,7 +8,7 @@ Secret Badges (or sBadges) are privacy-preserving collectable digital assets iss
 
 ## Claim a sBadge
 
-[](../images/claim-control-default.png)
+[](../images/claim-control-default.png#pop)
 
 ### Claim Code
 

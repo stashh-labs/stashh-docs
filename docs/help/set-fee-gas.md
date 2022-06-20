@@ -40,4 +40,4 @@ Setting the Gas Fee to **Low** should work in most cases, but some validators wi
 
 === "Keplr"
 
-    ![Keplr fee panel](../images/keplr-fee.png)
+    ![Keplr fee panel](../images/keplr-fee.png#pop)
