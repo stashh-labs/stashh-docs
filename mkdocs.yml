@@ -1,6 +1,7 @@
 site_name: Stashh Documentation
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.tabs

@@ -4,6 +4,9 @@
     "alloc",
     "Cipheriv",
     "currentlt",
-    "Decipheriv"
+    "Decipheriv",
+    "fontawesome",
+    "Quickstart",
+    "Starshell"
   ]
 }

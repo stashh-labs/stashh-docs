@@ -13,8 +13,8 @@ Auction sales work within our standard Fees and Royalty schedule.
 ## Create an Auction
 
 1. Select **Auction** from the Sale Type dropdown menu
-2. Select the Currency you want to sell for from the **Currency** dropdown menu.
-3. Enter the amount you want bidding to start at into the **Minimum Bid** field.
+2. Select the Currency you want the auction to be conducted with from the **Currency** dropdown menu.
+3. Enter the amount you want bidding to start at in the **Minimum Bid** field.
 4. If you want to set a Buy Now price enter it into the **Optional Ending Price** field
 5. Either set the date and time you want the auction to end on by clicking the **Select End Date** field or use one of the default duration buttons to quickly set a duration.
 6. If you want to add any additional details about the sNFT enter them into the **Sales Pitch** field. 
@@ -27,7 +27,7 @@ Auction sales work within our standard Fees and Royalty schedule.
         ![Keplr requesting to Execute a Contract](../images/keplr-execute-contract-auction-create.png#pop)
 
 !!! note 
-    When you list a sNFT for sale it will be moved from your wallet into the auction contract escrow.
+    When you list a sNFT for sale it will be moved from your wallet into the auction contract escrow, so you won't be able to transfer it or use its utilities.
 
 ## Cancel an Auction
 
@@ -48,7 +48,7 @@ Auction sales work within our standard Fees and Royalty schedule.
 
 ## Winning an Auction
 
-If you are the highest bidder when an Auction closes the transaction will automatically be finalised by the Auction contract
+If you are the highest bidder when an Auction closes the transaction will automatically be finalised by the Auction contract and the sNFT will be sent to you.
 
 If you already have a Permit or a Viewing Key for the Collection the sNFT is in you can go to your Dashboard and view it immediately. If not, please follow the instructions for [Viewing Your sNFTs](view-your-nfts.md).
 
