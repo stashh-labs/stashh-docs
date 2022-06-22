@@ -1,6 +1,7 @@
 site_name: Stashh Documentation
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.tabs
@@ -36,6 +37,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+extra_css: [stylesheets/extra.css]
 markdown_extensions:
   - admonition
   - abbr
@@ -55,6 +57,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
 extra:
   social:
     - icon: fontawesome/brands/twitter
