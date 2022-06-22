@@ -22,7 +22,7 @@ When you buy a sNFT Stashh will pop up a prompt for you to create a Permit or Vi
 
     === "Keplr"
 
-    ![Keplr requesting a Permit](../images/keplr-query-permit.png#pop)
+    ![Keplr requesting a Permit](/images/keplr-query-permit.png#pop)
 
 3. Click the **View Collection** button to see the sNFTs you own in the Collection
 
@@ -42,6 +42,6 @@ If you have previously bought a sNFT and it doesn't show up in your Inventory yo
 
     === "Keplr"
 
-    ![Keplr requesting a Permit](../images/keplr-query-permit.png#pop)
+    ![Keplr requesting a Permit](/images/keplr-query-permit.png#pop)
 
 6. Click the **View Collection** button to view the sNFTs you own in this collection.

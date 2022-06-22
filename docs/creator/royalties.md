@@ -44,7 +44,7 @@ To change the royalties on an existing sNFT that meets the conditions above...
 
     === "Keplr"
 
-        ![Keplr requesting to update Royalties](../images/keplr-set-royalty-info.png#pop)
+        ![Keplr requesting to update Royalties](/images/keplr-set-royalty-info.png#pop)
 
 ## Payment
 

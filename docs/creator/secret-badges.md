@@ -11,7 +11,7 @@ Collectors get sBadges by claiming them using one of the Claim Mechanisms. As a 
 ## Create a sBadge
 
 1. Click the **Create** button on the top bar
-2. Either [create a new collection](./create-collection.md) or select an existing collection to create the sBadge in.
+2. Either [create a new collection](./collections/create-collection.md) or select an existing collection to create the sBadge in.
 3. Click the **Badge** button.
 4. Complete the form then click the **Create Template** 
 

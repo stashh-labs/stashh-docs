@@ -8,7 +8,7 @@ title: Swap to SNIP 20 Tokens
 
 Swapping SCRT for sSCRT can be done directly on Stashh...
 
-1. Click the Account Menu icon :fontawesome-solid-user:
+1. Click the Account Menu icon :duotone-user:
 2. Click the **Swap** button
 3. Enter the amount of SCRT you want to swap for sSCRT into the **Amount** field
 4. Click the **Swap** button.

@@ -8,7 +8,7 @@ Secret Badges (or sBadges) are privacy-preserving collectable digital assets iss
 
 ## Claim a sBadge
 
-[](../images/claim-control-default.png#pop)
+[](/images/claim-control-default.png#pop)
 
 ### Claim Code
 
@@ -41,7 +41,7 @@ Before you can claim a badge you are whitelisted for you first need to check you
 
     === "Keplr"
 
-        ![Keplr requesting a Permit](../images/keplr-query-permit.png#pop)
+        ![Keplr requesting a Permit](/images/keplr-query-permit.png#pop)
 
 5. Once the permit has been created Stashh will check if you are on the whitelist and show the number of badges you can claim.
 
@@ -49,20 +49,20 @@ Before you can claim a badge you are whitelisted for you first need to check you
 
         If you are not on the whitelist Stashh will show **Not Whitelisted**. If you think this is a mistake you should contact the Creator of the collection.
 
-        ![The claim control when you are not whitelisted](../images/claim-control-not-whitelisted.png#pop)
+        ![The claim control when you are not whitelisted](/images/claim-control-not-whitelisted.png#pop)
 
     === "Whitelisted"
 
         If you are whitelisted Stashh will show **Whitelisted** and the number of claims you can make.
 
-        ![The claim control when you are whitelisted](../images/claim-control-whitelisted.png#pop)
+        ![The claim control when you are whitelisted](/images/claim-control-whitelisted.png#pop)
 
 6. Click **Claim Badge**
 7. Your wallet will ask to perform a mint transaction. Click **Approve**
 
     === "Keplr"
 
-        ![Keplr requesting to Mint](../images/keplr-mint-txn.png#pop)
+        ![Keplr requesting to Mint](/images/keplr-mint-txn.png#pop)
 
 ## View a sBadge
 

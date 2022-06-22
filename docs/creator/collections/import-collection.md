@@ -6,13 +6,13 @@ title: Import a Collection
 
 !!! warning
 
-    Currently you need to be a whitelisted creator in order to create or import collections on Stashh. For more details about how this works please read the [Early Access Creator Program](early-access-creator-program.md) page
+    You need to be an approved creator in order to create or import collections on Stashh. For more details about how this works please read the [Creator Launchpad](../creator-launchpad.md) page
 
 !!! warning
 
-    You must be authenticated with the wallet that owns the collection to be able to import it
+    You must be authenticated with the wallet that owns the collection contract to be able to import it
 
-1. Make sure you are authenticated with your whitelisted wallet then click the Account icon on the navigation bar.
+1. Make sure you are authenticated with your whitelisted wallet then click the Account Menu icon :duotone-user: on the navigation bar.
 2. Click **Import Collection**.
 3. Enter the Secret Network address of your collection in the **Collection Address** field.
 4. Click the **Import** button.

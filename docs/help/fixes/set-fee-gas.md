@@ -30,7 +30,7 @@ If your transaction fails and the **Gas Used** is higher than the **Gas Wanted**
 
     === "Keplr"
 
-        ![Keplr fee and gas panel](../images/keplr-manual-gas.png#pop)
+        ![Keplr fee and gas panel](/images/keplr-manual-gas.png#pop)
 
 ## Change Gas Fee
 
@@ -40,4 +40,4 @@ Setting the Gas Fee to **Low** should work in most cases, but some validators wi
 
 === "Keplr"
 
-    ![Keplr fee panel](../images/keplr-fee.png#pop)
+    ![Keplr fee panel](/images/keplr-fee.png#pop)
