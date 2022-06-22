@@ -29,7 +29,7 @@ jobs:
           python3 -m pip install mkdocs
           python3 -m pip install mkdocs-material
       - name: Build site
-        run: mkdocs build
+        run: mkdocs build --strict
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
