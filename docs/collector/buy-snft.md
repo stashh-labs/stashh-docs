@@ -8,8 +8,8 @@ Buying a sNFT on Stashh is similar to buying a sNFT on any other marketplace. Th
 
 There are two sales mechanisms on Stashh. The way you buy a sNFT depends on which mechanism is being used.
 
-- [Fixed Price](./fixed-price-sale.md)
-- [Auction](./auction-sales.md)
+- [Fixed Price](./../features/sale-types/fixed-price-sale.md)
+- [Auction](./../features/sale-types/auction-sales.md)
 
 ## Fixed Price
 

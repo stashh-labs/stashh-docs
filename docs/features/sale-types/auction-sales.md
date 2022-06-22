@@ -8,13 +8,11 @@ An auction is a mechanism to find the optimal price for your sNFT. When you list
 
 There are many different kinds of Auction. Stashh currently supports English auctions where the seller sets an initial price then buyers bid incrementally until a timer runs out at which point the highest bid wins.
 
-Fixed Price sales work within our standard [Fees](./fees.md) and Royalty schedule.
-
 ## Winning an Auction
 
 If you are the highest bidder when an Auction closes the transaction will automatically be finalised by the Auction contract and the sNFT will be sent to you.
 
-If you already have a Permit or a Viewing Key for the Collection the sNFT is in you can go to your Dashboard and view it immediately. If not, please follow the instructions for [Viewing Your sNFTs](view-your-nfts.md).
+If you already have a Permit or a Viewing Key for the Collection the sNFT is in you can go to your Dashboard and view it immediately. If not, please follow the instructions for [Viewing Your sNFTs](./../../collector/view-your-nfts.md).
 
 ## Buy Now Price
 

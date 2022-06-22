@@ -18,4 +18,4 @@ If you are having issues with authentication or permits you can manually clear o
 5. Click **Clear**
 6. Reload the page
 
-If you need to sign back into your Stashh account follow the instructions in the [Getting Started](../collector/getting-started.md) guide
+If you need to sign back into your Stashh account follow the instructions in the [Getting Started](../getting-started.md) guide

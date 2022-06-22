@@ -1,5 +1,5 @@
 ---
-title: Selling sNFT
+title: Selling sNFTs
 ---
 
 # Selling sNFTs
@@ -14,8 +14,8 @@ You can sell a sNFT on Stashh as long as it meets all of the following condition
 
 There are two sales mechanisms on Stashh. The way you sell a sNFT depends on which mechanism is being used.
 
-- [Fixed Price](./fixed-price-sale.md)
-- [Auction](./auction-sales.md)
+- [Fixed Price](./../features/sale-types/fixed-price-sale.md)
+- [Auction](./../features//sale-types//auction-sales.md)
 
 ## Sell a sNFT
 
