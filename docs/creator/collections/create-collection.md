@@ -15,7 +15,7 @@ title: Create a Collection
 
     === "Keplr"
 
-        ![Keplr requesting to  Instantiate a Contract](/images/keplr-instantiate-contract.png#pop)
+        ![Keplr requesting to Instantiate a Contract](/images/keplr-instantiate-contract.png#pop)
 
 5. Click the **Create Permit for This Collection** button.
 6. Your wallet will ask to create a Permit. Click **Approve**

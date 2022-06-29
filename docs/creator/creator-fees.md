@@ -22,14 +22,17 @@ Fees on Secret Network are very low, so you can comfortably create a large colle
 
     The following table of fees is based on selecting Average gas, and gives an approximate value for each action.
 
-| Action                     | SCRT   |
-|----------------------------|--------|
-| Cancel sale                | ~0.021 |
-| Connect Minter             | ~0.021 |
-| Create Collection          | ~0.021 |
-| Create Permit              | FREE   |
-| Create sBadge              | ~0.030 |
-| Create sNFT                | ~0.030 |
-| Create Viewing Key         | ~0.005 |
-| Generate Minter            | ~0.021 |
-| List for sale              | ~0.030 |
+| Action                     | SCRT                     |
+|----------------------------|--------------------------|
+| Cancel Gumball Machine     | ~0.053                   |
+| Cancel Sale                | ~0.021                   |
+| Connect Minter             | ~0.021                   |
+| Create Collection          | ~0.021                   |
+| Create Gumball Machine     | ~0.053                   |
+| Create Permit              | FREE                     |
+| Create sBadge              | ~0.030                   |
+| Create sNFT                | ~0.030                   |
+| Create Viewing Key         | ~0.005                   |
+| Generate Minter            | ~0.021                   |
+| List for sale              | ~0.033                   |
+| Load Gumball Machine       | ~0.020 + ~0.004 per item |
