@@ -36,8 +36,8 @@ This is the description of your Gumball Machine. You can use it to explain to us
 
 ### Display Type
 
-This sets how the sNFTs in the Gumball Machine are shown in the Collection and the Marketplace.
+This sets how the sNFTs in the Gumball Machine are shown in the Collection and the Marketplace. Regardless of which option you choose there is no way to see which sNFTs remain inside the Gumball Machine, or to affect the order in which they are dispensed.
 
 - **Reveal** - sNFTs are shown in the Marketplace as soon as they are purchased from the Gumball Machine.
-- **Public** - All sNFTs in the Gumball Machine are shown in the Marketplace.
+- **Public** - All sNFTs that have been loaded into the Gumball Machine are shown in the Marketplace.
 - **Private** - sNFTs are not shown in the Marketplace unless the new owner decides to list it for sale after buying it from the Gumball Machine.

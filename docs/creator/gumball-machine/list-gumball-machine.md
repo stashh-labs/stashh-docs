@@ -33,7 +33,7 @@ To enable the Whitelist turn on the Whitelisting toggle. The Whitelisting contro
 
 This field sets the maximum number of sNFTs that can be sold during the whitelisted purchase period. It must be less than or equal to the number of sNFTs in the Gumball Machine.
 
-If a Total Reserved Amount is set with no End Date then the main sale will begin as soon as the allocation of reserved sNFTs is sold, otherwise buyers will have to wait until the Whitelist End Date.
+If a Total Reserved Amount is set with no End Date then the main sale will begin as soon as the allocation of reserved sNFTs is sold.
 
 #### End Date
 

@@ -10,7 +10,6 @@ title: Load a Gumball Machine
 
 ![The Gumball Send page](/images/gumball-send.png#pop)
 
-
 1. Navigate to the collection that contains your Gumball Machine
 2. Click the Edit icon :duotone-pen-to-square:
 3. Navigate to the **Send NFTs to your Gumball Machine** section.
