@@ -66,7 +66,7 @@ Before you can claim a badge you are whitelisted for you first need to check you
 
 ## View a sBadge
 
-Viewing a sBadge works just like [viewing a sNFT](./view-your-nfts.md)
+Viewing a sBadge works just like [viewing a sNFT](./view-nfts.md)
 
 ## Burn a sBadge
 

@@ -12,7 +12,7 @@ There are many different kinds of Auction. Stashh currently supports English auc
 
 If you are the highest bidder when an Auction closes the transaction will automatically be finalised by the Auction contract and the sNFT will be sent to you.
 
-If you already have a Permit or a Viewing Key for the Collection the sNFT is in you can go to your Dashboard and view it immediately. If not, please follow the instructions for [Viewing Your sNFTs](./../../collector/view-your-nfts.md).
+If you already have a Permit or a Viewing Key for the Collection the sNFT is in you can go to your Dashboard and view it immediately. If not, please follow the instructions for [Viewing Your sNFTs](./../../collector/view-nfts.md).
 
 ## Buy Now Price
 
