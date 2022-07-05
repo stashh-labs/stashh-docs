@@ -45,6 +45,43 @@ There are two sales mechanisms on Stashh. The way you sell a sNFT depends on whi
 
         ![Keplr requesting to list an sNFT for sale](/images/keplr-execute-contract-batch-send.png#pop)
 
+## Update a Listing
+
+You can edit some parts of a listing without having to cancel and relist it.  
+
+1. Navigate to the sNFT you want to change
+2. Wait for Stashh to verify that you are the owner, then the Sale control will appear.
+3. Click the **Edit** button
+
+    === "Fixed Price"
+
+        ![The Fixed Price sale control with an Edit button](/images/sale-control-fixed-price-active.png#pop)
+        
+    === "Auction"
+
+        !!! note
+
+            Once a bid has been placed on an auction it cannot be edited
+
+        ![The Auction sale control with an Edit button](/images/sale-control-auction-active.png#pop)
+
+4. The Edit Sale control will appear. Make any changes you want then click the **Update Sale Information** button.
+
+    === "Fixed Price"
+
+        ![The Fixed Price sale control with an Edit button](/images/sale-control-fixed-price-edit.png#pop)
+        
+    === "Auction"
+
+        ![The Auction sale control with an Edit button](/images/sale-control-auction-edit.png#pop)
+
+5. Your wallet will ask you to Execute a Contract. Click **Approve**
+
+    === "Keplr"
+
+        ![Keplr requesting to list an sNFT for sale](/images/keplr-execute-contract-edit-listing.png#pop)
+
+
 ## Bulk Listing
 
 You can list up to 30 sNFTs in a Collection at once using the Bulk Listing feature. Each of the listings will be created with identical parameters.
