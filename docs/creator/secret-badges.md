@@ -10,13 +10,19 @@ Collectors get sBadges by claiming them using one of the Claim Mechanisms. As a 
 
 ## Create a sBadge
 
+!!! warning "Precondition"
+
+    You need to [connect and authenticate](../help/getting-started.md) your wallet and be in the [Creator Launchpad](../creator/creator-launchpad.md) before you can create sBadges on Stashh
+
 1. Click the **Create** button on the top bar
 2. Either [create a new collection](./collections/create-collection.md) or select an existing collection to create the sBadge in.
 3. Click the **Badge** button.
-4. Complete the form then click the **Create Template** 
 
-!!! note
-    If you are creating a sBadge in a new collection you will need to click **Generate Minter** then **Connect Minter With Collection** before the **Create Template** button is enabled.
+    !!! note
+
+        If you are creating a sBadge in a new collection you will need to click **Generate Minter** then **Connect Minter With Collection** before the **Create Template** button is enabled.
+
+4. Complete the form then click the **Create Template** 
 
 ## Claim Mechanisms
 

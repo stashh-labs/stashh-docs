@@ -4,9 +4,9 @@ title: Create a Collection
 
 # Create a Collection
 
-!!! warning
+!!! warning "Precondition"
 
-    You need to join the Creator Launchpad before you can create or import collections on Stashh. For more details about how this works please read the [Creator Launchpad](../creator-launchpad.md) page
+    You need to [connect](../../help/getting-started.md#connect-your-wallet) and [authenticate](../../help/getting-started.md#authenticate-your-wallet) your wallet and be in the [Creator Launchpad](../creator-launchpad.md) before you can create sBadges on Stashh
 
 1. Click the **Create** button on the top bar.
 2. Click the **Create New Collection** button.
