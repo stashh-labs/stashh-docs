@@ -14,6 +14,12 @@ Stashh is an NFT marketplace built on Secret Network, the first Layer 1 blockcha
 
 Stashh is the first marketplace for NFTs that are private by default - the missing piece to making NFTs truly useful, secure, and sustainable. This unique privacy functionality means you can mint, buy, and trade NFTs on Stashh that aren't possible on any other blockchain. It also means Stashh can offer unique features to users and creators, such as transactional privacy, auctions that are impossible to front-run, full on-chain randomisation, private ownership, and much, much more.
 
+## Why are wallet addresses shown on sNFTs?
+
+On Secret Network any transactions you do with a contract (including instantiation) are available publicly on chain, so anyone can see that an address signed a transaction to instantiate a new listing. It doesn't make sense for Stashh to hide this address as it would give a false sense of privacy.
+
+We make it clear that selling a sNFT will expose the address of the seller before a listing can be created.
+
 ## What are Public, Private, and Protected Properties?
 
 sNFTs (as defined by the SNIP-721 standard on Secret Network) are distinct from other NFTs in that each property of a Secret NFT has a privacy level as well as a name and a value. This dramatically expands what's possible with NFTs, with the potential to revolutionize digital art, music, video sharing, gaming, finance, and many more industries. The privacy level for each sNFT property can be set independently, and can be Public, Protected, or Private. 
