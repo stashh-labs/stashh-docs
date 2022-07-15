@@ -48,9 +48,9 @@ Yes! We deployed [Auctions](../features/sale-types/auction-sales.md) in April 20
 
 ## What currencies does Stashh support?
 
-Currently Stashh supports sales denominated in a variety of SNIP20 tokens including sSCRT, sUSDT, sETH, and sHUAHUA as well as SEFI and SIENNA.
+Currently Stashh supports sales denominated in a variety of SNIP20 tokens including sSCRT, sUSDT, sETH, sSTARS, and sHUAHUA as well as SEFI and SIENNA.
 
-Using the  Buy With SCRT feature you can also pay in SCRT and the transaction will be conducted using a privacy preserving SNIP20 token.
+Using the Buy With SCRT feature you can also pay in SCRT and the transaction will be conducted using a privacy preserving SNIP20 token.
 
 ## How much does it cost to sell a sNFT on Stashh?
 
