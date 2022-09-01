@@ -11,7 +11,7 @@ The logo is shown everywhere on your Collection, on the Collection Card and is u
 For best results we recommend using a 300 x 300 pixel image in PNG or JPG format with a maximum size of 1mb.
 
 !!! tip
-    The logo be cropped to a circle so try to avoid text that goes across the top or bottom of the image as it will be obscured.
+    The logo is cropped to a circle so try to avoid text that goes across the top or bottom of the image as it will be obscured.
 
 ### Banner
 
