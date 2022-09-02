@@ -4,7 +4,7 @@ title: SNIP20 Token
 
 ## SNIP20 Token
 
-A SNIP20 Tokens is a privacy preserving token used on Secret Network. You can tell that you are dealing with a SNIP20 because they all start with a lower-case s, like sSCRT or sETH. SNIP20 Tokens are private by default. If someone else wants to view your your balance in a SNIP20 Token you must grant them permission with a Viewing Key. 
+A SNIP20 Token is a privacy preserving token used on Secret Network. You can tell that you are dealing with a SNIP20 because they all start with a lower-case s, like sSCRT or sETH. SNIP20 Tokens are private by default. If someone else wants to view your balance in a SNIP20 Token you must grant them permission with a Viewing Key. 
 
 Using SNIP20 tokens allows all your balance and transaction data to be encrypted on-chain. Nobody can access this information without your explicit permission. This means that...
 

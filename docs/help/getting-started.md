@@ -30,7 +30,7 @@ Before you can use dApps on Secret Network your wallet needs to be connected to 
 
 ## Authenticate your Wallet
 
-You can browse Stashh without authenticating, but you must be authenticated to buy, sell, create, manage or or view sNFTs
+You can browse Stashh without authenticating, but you must be authenticated to buy, sell, create, manage or view sNFTs
 
 Authenticating is like logging into an account but without the need for a username or password. Your wallet acts as your login credentials.
 
