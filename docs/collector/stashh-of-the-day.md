@@ -17,9 +17,10 @@ Here is how to claim a SOTD badge.
    
    ![Claim Buttom](/images/SOTD_Claim.png#pop)
    
-5. If you are not connected to Stashh, we provide a few options to help you easily connect
-    1. If you need to create a wallet, click **Create Quick Account** and we will create a wallet for you (make sure you save your mnemonic key somewhere safe - preferably offline!)
-    2. If you already have a wallet, click **Keplr** if you are on desktop or **Fina** if you are on mobile and follow the prompts
+If you are not connected to Stashh, we provide a few options to help you easily connect
+
+1. If you need to create a wallet, click **Create Quick Account** and we will create a wallet for you (make sure you save your mnemonic key somewhere safe - preferably offline!)
+2. If you already have a wallet, click **Keplr** if you are on desktop or **Fina** if you are on mobile and follow the prompts
 
 ![Connect to Stashh](/images/SOTD_Create account.png#pop)
 
