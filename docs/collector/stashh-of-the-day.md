@@ -31,8 +31,6 @@ If your Discord or Twitter accounts are not linked, you will see two buttons (sh
 
 Each badge claimed is an entry earned, so try to claim as many badges as possible.
 
-![Link Discord & Twitter](images/SOTD_Profile.png)
-
 ### Stashh achievements
 
 You can earn the achievements below just for collecting SOTD badges. Each achievement earned will award you with an associated Discord role. To activate the role in Discord, please make sure to link your Discord within your Stashh Profile [here](https://stashh.io/dashboard/profile).
@@ -42,8 +40,6 @@ You can earn the achievements below just for collecting SOTD badges. Each achiev
 | Rookie Claimer | 3               |
 | Pro Claimer    | 8               |
 | Degen Claimer  | 15              |
-
-![Achievements](images/SOTD_Achievements.png)
 
 ### Discord roles
 
@@ -57,8 +53,6 @@ Each achievement earned will award you with an associated Discord role as shown 
 
 To activate a role in Discord, please first make sure to link your Discord within your Stashh Profile [here](https://stashh.io/dashboard/profile). You can then have the option to toggle each role ON or OFF on the Discord Roles section of your Stashh Rewards page [here](https://stashh.io/dashboard/rewards?tab=discord).
 
-![Discord Roles](images/SOTD_Roles.png)
-
 ### Stashh Gems
 
 You can earn Stashh Gems just by claiming SOTD badges. To be eligible, make sure that your Discord is linked to your Stashh Profile [here](https://stashh.io/dashboard/profile).
@@ -66,5 +60,3 @@ You can earn Stashh Gems just by claiming SOTD badges. To be eligible, make sure
 If your Discord is not linked, you will see a button (shown below) prompting you to Link My Discord on your Stashh Profile [here](https://testnet.stashh.io/dashboard/profile).
 
 Stashh Gems are an on-platform currency that powers-up premium experiences and features on Stashh. For example, you can use them to bid so special Stashh auctions (coming soon) and feature a collection that you love on the homepage by contributing to their community pool (coming soon). Learn more about Stashh Gems [here](https://stashh.substack.com/p/stashh-levels-up-rewards-gems-and?utm_source=profile&utm_medium=reader2).
-
-![Link Discord](images/SOTD_Discord.png)
