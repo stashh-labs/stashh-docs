@@ -9,6 +9,7 @@ Stashh of the Day (SOTD) drops a new and unique Secret Badge every 24 hours. The
 ## How to claim
 
 Here is how to claim a SOTD badge.
+
 1. Navigate to the Stashh homepage at https://stashh.io/
 2. Look for the **Stashh of the Day Event** section
 3. Click on the badge that is active for that day (you’ll see a countdown timer showing how much time is left to claim) to access the badge page
