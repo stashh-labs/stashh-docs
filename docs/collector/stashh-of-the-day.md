@@ -14,9 +14,14 @@ Here is how to claim a SOTD badge.
 2. Look for the **Stashh of the Day Event** section towards the right of the page
 3. Click on the badge that is active for that day (you’ll see a countdown timer showing how much time is left to claim) to access the badge page
 4. Click the **Claim Stashh of the Day** button (claiming is completely free and does not require a transaction or paying gas)
+   
+   ![Claim Buttom](/images/SOTD_Claim.png)
+   
 5. If you are not connected to Stashh, we provide a few options to help you easily connect
     1. If you need to create a wallet, click **Create Quick Account** and we will create a wallet for you (make sure you save your mnemonic key somewhere safe - preferably offline!)
     2. If you already have a wallet, click **Keplr** if you are on desktop or **Fina** if you are on mobile and follow the prompts
+
+![Connect to Stashh](/images/SOTD_Create account.png)
 
 ## How to enter the giveaway and prizes
 
@@ -32,6 +37,8 @@ If your Discord or Twitter accounts are not linked, you will see two buttons pro
 
 Each badge claimed is an entry earned, so try to claim as many badges as possible.
 
+![Link Discord and Twitter](/images/SOTD_Profile.png)
+
 ### Stashh achievements
 
 You can earn the achievements below just by collecting SOTD badges. Each achievement earned will award you with an associated Discord role. To activate the role in Discord, please make sure to link your Discord within your Stashh Profile [here](https://stashh.io/dashboard/profile).
@@ -41,6 +48,8 @@ You can earn the achievements below just by collecting SOTD badges. Each achieve
 | Rookie Claimer | 3               |
 | Pro Claimer    | 8               |
 | Degen Claimer  | 15              |
+
+![Achievements](/images/SOTD_Achievements.png)
 
 ### Discord roles
 
@@ -54,6 +63,8 @@ Each achievement earned will award you with an associated Discord role as shown 
 
 To activate a role in Discord, please first make sure to link your Discord within your Stashh Profile [here](https://stashh.io/dashboard/profile). You then have the option to toggle each role ON or OFF on the Discord Roles section of your Stashh Rewards page [here](https://stashh.io/dashboard/rewards?tab=discord).
 
+![Discord Roles](/images/SOTD_Roles.png)
+
 ### Stashh Gems
 
 You can earn Stashh Gems just by claiming SOTD badges. To be eligible, make sure that your Discord is linked to your Stashh Profile [here](https://stashh.io/dashboard/profile).
@@ -61,3 +72,5 @@ You can earn Stashh Gems just by claiming SOTD badges. To be eligible, make sure
 If your Discord is not linked, you will see a button prompting you to **Link My Discord** on your Stashh Profile [here](https://testnet.stashh.io/dashboard/profile).
 
 Stashh Gems are an on-platform currency that powers-up premium experiences and features on Stashh. For example, you can use them to bid on special Stashh auctions (coming soon) and feature a collection that you love on the homepage by contributing to their community pool (coming soon). Learn more about Stashh Gems [here](https://stashh.substack.com/p/stashh-levels-up-rewards-gems-and?utm_source=profile&utm_medium=reader2).
+
+![Link Discord](/images/SOTD_Discord.png)
