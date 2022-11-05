@@ -8,15 +8,19 @@ title: Supported Formats & Sizes
 
 Stashh currently supports the following file formats...
 
-|     | Supported  | Marketplace | Asset Page |
-|-----|------------|-------------|------------|
-| PNG | ✔️        | ✔️          | ✔️        |
-| JPG | ✔️        | ✔️          | ✔️        |
-| GIF | ✔️        | ✔️          | ✔️        |
-| MP4 | ✔️        | ❌          | ✔️        | 
-| MP3 | ✔️        | ❌          | ✔️        |
-| WAV | ✔️        | ❌          | ✔️        |
-| GLB | ✔️        | ❌          | ✔️        |
+|      | Supported  | Thumbnail | Asset Page |
+|------|------------|-----------|------------|
+| PNG  | ✔️        | ✔️        | ✔️        |
+| JPG  | ✔️        | ✔️        | ✔️        |
+| GIF  | ✔️        | ✔️        | ✔️        |
+| GLB  | ✔️        | ❌        | ✔️        |
+| MP4  | ✔️        | ❌        | ✔️        | 
+| MP3  | ✔️        | ❌        | ✔️        |
+| PDF  | ✔️        | ❌        | ✔️        |
+| TXT  | ✔️        | ❌        | ✔️        |
+| WAV  | ✔️        | ❌        | ✔️        |
+| WEBM | ✔️        | ✔️        | ✔️        |
+| WEBP | ✔️        | ✔️        | ✔️        |
 
 ## Thumbnails
 
