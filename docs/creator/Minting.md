@@ -23,7 +23,7 @@ On the **Create a New Collection** screen, add your **logo** and **banner image*
 
 Next, add an awesome **Collection Name** and **Description**, and set the most accurate **Categories**. You can select more than one category.
 
-![Collection Name and Description](/Permissionless Minting_Collection Name.png#pop)
+![Collection Name and Description](/images/Permissionless Minting_Collection Name.png#pop)
 
 Finally, review and modify the settings to make sure that your collection operates as you expect. Each can be toggled ON or OFF depending on your use case.
 
