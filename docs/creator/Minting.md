@@ -10,7 +10,7 @@ Hello creators! Using our permissionless minting tool, anyone can create their o
 
 [Create New Collection Video](https://youtu.be/-jgr8fPd9nw)
 
-Head to the Stashh [homepage]([stashh.io](https://stashh.io/)) and click the **Create** button near the top right corner of the page.
+Head to the Stashh [homepage](https://stashh.io/) and click the **Create** button near the top right corner of the page.
 
 ![Create](/images/Permissionless Minting_Create.png#pop)
 
@@ -29,16 +29,16 @@ Next, add an awesome **Collection Name** and **Description**, and set the most a
 Finally, review and modify the settings to make sure that your collection operates as you expect. Each can be toggled ON or OFF depending on your use case.
 
 - Enable Royalties
-  - Every NFT created within this collection can have the royalties apply you set here by default. You can add up to five wallets and set a percentage for each one.
+   - Every NFT created within this collection can have the royalties apply you set here by default. You can add up to five wallets and set a percentage for each one.
 - Private Ownership
-  - The owners of this collection will be kept private from the public. No one would be able to see who owns the asset.
+    - The owners of this collection will be kept private from the public. No one would be able to see who owns the asset.
 - Enable Burn Asset Feature
-  - Choose whether or not the owners can burn their NFT.
+   - Choose whether or not the owners can burn their NFT.
 - Hide Collection until I decide to Reveal it
-  - Your collection will be hidden from the public until you are ready to reveal it. 
-  - When you are ready to reveal, go to the **Created Collection** section in your My Stashh page, select the collection, and click the **Reveal** button.
+    - Your collection will be hidden from the public until you are ready to reveal it. 
+    - When you are ready to reveal, go to the **Created Collection** section in your My Stashh page, select the collection, and click the **Reveal** button.
 - Allow me to Update Assets after they are created/minted
-  - This is to enable Dynamic Content, and must be enabled on this page during the collection creation process. It cannot be enabled later once the collection has been created.
+    - This is to enable Dynamic Content, and must be enabled on this page during the collection creation process. It cannot be enabled later once the collection has been created.
 
 ![Collection Settings](/images/Permissionless Minting_Collection Settings.png#pop)
 
