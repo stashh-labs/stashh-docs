@@ -29,11 +29,11 @@ Next, add an awesome **Collection Name** and **Description**, and set the most a
 Finally, review and modify the settings to make sure that your collection operates as you expect. Each can be toggled ON or OFF depending on your use case.
 
 - Enable Royalties
-   - Every NFT created within this collection can have the royalties apply you set here by default. You can add up to five wallets and set a percentage for each one.
+      - Every NFT created within this collection can have the royalties apply you set here by default. You can add up to five wallets and set a percentage for each one.
 - Private Ownership
     - The owners of this collection will be kept private from the public. No one would be able to see who owns the asset.
 - Enable Burn Asset Feature
-   - Choose whether or not the owners can burn their NFT.
+      - Choose whether or not the owners can burn their NFT.
 - Hide Collection until I decide to Reveal it
     - Your collection will be hidden from the public until you are ready to reveal it. 
     - When you are ready to reveal, go to the **Created Collection** section in your My Stashh page, select the collection, and click the **Reveal** button.
