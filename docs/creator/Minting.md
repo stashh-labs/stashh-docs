@@ -2,15 +2,13 @@
 
 ## Overview
 
-[Minting Introduction Video](https://youtu.be/bbOBc5f5C4o)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bbOBc5f5C4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Hello creators! Using our permissionless minting tool, anyone can create their own Secret NFTs or Secret Badges on Stashh. This page will walk you through the workflow so that you can create your own assets on Stashh right away.
 
 ## Create a new collection
 
-[Create New Collection Video](https://youtu.be/-jgr8fPd9nw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-jgr8fPd9nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Head to the Stashh [homepage](https://stashh.io/) and click the **Create** button near the top right corner of the page.
 
@@ -69,7 +67,7 @@ Stashh provides a few options for you to choose from:
 
 ### Regular Asset
 
-[Create Regular Asset Video](https://youtu.be/qV-gXnpQ5Yg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qV-gXnpQ5Yg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In this example, we’ll focus on creating a regular NFT, so we’ll click **Regular Asset** to start creating.
 
@@ -124,7 +122,7 @@ Once we have finalized our asset we have two options:
 
 ## Accessing your drafts
 
-[Accessing Your Drafts Video](https://youtu.be/ZdWTXAXYHNU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZdWTXAXYHNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 To access your drafts, go to your **My Stashh** page, click the **Created Collections** section, then select the collection that contains your draft.
 
