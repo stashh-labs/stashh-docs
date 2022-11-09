@@ -10,7 +10,7 @@ Hello creators! Using our permissionless minting tool, anyone can create their o
 
 [Create New Collection Video](https://youtu.be/-jgr8fPd9nw)
 
-Head to the Stashh [homepage](stashh.io) and click the **Create** button near the top right corner of the page.
+Head to the Stashh [homepage]([stashh.io](https://stashh.io/)) and click the **Create** button near the top right corner of the page.
 
 ![Create](/images/Permissionless Minting_Create.png#pop)
 
