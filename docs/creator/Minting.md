@@ -1,6 +1,7 @@
 # Minting
 
 ## Overview
+
 [Minting Introduction Video](https://youtu.be/bbOBc5f5C4o)
 
 Hello creators! Using our permissionless minting tool, anyone can create their own Secret NFTs or Secret Badges on Stashh. This page will walk you through the workflow so that you can create your own assets on Stashh right away.
@@ -11,19 +12,19 @@ Hello creators! Using our permissionless minting tool, anyone can create their o
 
 Head to the Stashh [homepage](stashh.io) and click the **Create** button near the top right corner of the page.
 
-![Create](stashh-docs/docs/images/Permissionless Minting_Create.png#pop)
+![Create](/images/Permissionless Minting_Create.png#pop)
 
 On the **Create Your Secret NFTs** screen, choose whether you would like to **Create a New Collection**, **Import a Collection**, or **Select an Existing Collection**. For this example, let’s Create a New Collection.
 
-![Create Youre Secret NFTs](stashh-docs/docs/images/Permissionless Minting_Create New Collection.png#pop)
+![Create Youre Secret NFTs](/images/Permissionless Minting_Create New Collection.png#pop)
 
 On the **Create a New Collection** screen, add your **logo** and **banner image**. The recommended size of the logo is 300 x 300 (max 1MB), and of the banner is 1360 x 200 (max 3MB).
 
-![Add Logo and Banner Image](stashh-docs/docs/images/Permissionless Minting_Collection Images.png#pop)
+![Add Logo and Banner Image](/images/Permissionless Minting_Collection Images.png#pop)
 
 Next, add an awesome **Collection Name** and **Description**, and set the most accurate **Categories**. You can select more than one category.
 
-![Collection Name and Description](stashh-docs/docs/images/Permissionless Minting_Collection Name.png#pop)
+![Collection Name and Description](/images/Permissionless Minting_Collection Name.png#pop)
 
 Finally, review and modify the settings to make sure that your collection operates as you expect. Each can be toggled ON or OFF depending on your use case.
 
@@ -39,7 +40,7 @@ Finally, review and modify the settings to make sure that your collection operat
 - Allow me to Update Assets after they are created/minted
   - This is to enable Dynamic Content, and must be enabled on this page during the collection creation process. It cannot be enabled later once the collection has been created.
 
-![Collection Settings](stashh-docs/docs/images/Permissionless Minting_Collection Settings.png#pop)
+![Collection Settings](/images/Permissionless Minting_Collection Settings.png#pop)
 
 When you’re ready, click **Create Collection**. Your Keplr wallet will appear asking you to approve the gas transaction. Once you approve the transaction, the collection will be created.
 
@@ -62,7 +63,7 @@ Stashh provides a few options for you to choose from:
 - Gumball Machine
     - Load it with regular assets, set a price, and allow users to buy one randomly (great for primary drops)
 
-![Select Asset Format](stashh-docs/docs/images/Permissionless Minting_Select Asset.png#pop)
+![Select Asset Format](/images/Permissionless Minting_Select Asset.png#pop)
 
 ### Regular Asset
 
@@ -79,15 +80,15 @@ First, we’ll attached our hidden file, then our public thumbnail. The hidden f
 
 Any files uploaded to the Hidden Files or Thumbnail File section are uploaded to IPFS.
 
-![Hidden Files and Thumbnail File](stashh-docs/docs/images/Permissionless Minting_Hidden Files.png#pop)
+![Hidden Files and Thumbnail File](/images/Permissionless Minting_Hidden Files.png#pop)
 
 Next, add any private or public links. **Any links are not uploaded to IPFS. You are responsible for keeping up with these links.**
 
-![Asset Links](stashh-docs/docs/images/Permissionless Minting_Hidden File Links.png#pop)
+![Asset Links](/images/Permissionless Minting_Hidden File Links.png#pop)
 
 Now, add an awesome **Name** and **Description** to your asset.
 
-![Asset Name and Description](stashh-docs/docs/images/Permissionless Minting_Asset Name.png#pop)
+![Asset Name and Description](/images/Permissionless Minting_Asset Name.png#pop)
 
 In the next section, add your **Properties**, which can be public, protected, or private.
 
@@ -100,17 +101,17 @@ In the next section, add your **Properties**, which can be public, protected, or
 
 Click the **Add Property** button to add a new property.
 
-![Asset Properties](stashh-docs/docs/images/Permissionless Minting_Asset Properties.png#pop)
+![Asset Properties](/images/Permissionless Minting_Asset Properties.png#pop)
 
 In our final steps, confirm your royalty settings in the **Enable Royalties** section. Whatever you set up on the collection level will be reflected here.
 
 You can toggle royalties ON or OFF on your asset, as well as update wallet addresses or the percentages associated.
 
-![Enable Royalties](stashh-docs/docs/images/Permissionless Minting_Enable Royalties.png#pop)
+![Enable Royalties](/images/Permissionless Minting_Enable Royalties.png#pop)
 
 The last setting is **Place Asset for Sale**, which allows you to create your listing on this page once the toggle is turned ON.
 
-![List Asset for Sale](stashh-docs/docs/images/Permissionless Minting_Place Asset for Sale.png#pop)
+![List Asset for Sale](/images/Permissionless Minting_Place Asset for Sale.png#pop)
 
 Once we have finalized our asset we have two options:
 
@@ -125,11 +126,11 @@ Once we have finalized our asset we have two options:
 
 To access your drafts, go to your **My Stashh** page, click the **Created Collections** section, then select the collection that contains your draft.
 
-![Created Collections](stashh-docs/docs/images/Permissionless Minting_Created Collections.png#pop)
+![Created Collections](/images/Permissionless Minting_Created Collections.png#pop)
 
 Click the **Manage** button near the top right of the page, then click the **Drafts** tab. You’ll see all of the drafts associated with this collection here.
 
-![Drafts](stashh-docs/docs/images/Permissionless Minting_Drafts.png#pop)
+![Drafts](/images/Permissionless Minting_Drafts.png#pop)
 
 Use this page to perform a few actions to your draft:
 
@@ -137,7 +138,7 @@ Use this page to perform a few actions to your draft:
 - Edit the draft by clicking the pencil
 - Mint the draft
 
-![Draft Actions](stashh-docs/docs/images/Permissionless Minting_Draft Actions.png#pop)
+![Draft Actions](/images/Permissionless Minting_Draft Actions.png#pop)
 
 ## Mint your asset
 
