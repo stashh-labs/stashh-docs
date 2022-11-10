@@ -4,7 +4,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bbOBc5f5C4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Hello creators! Using our permissionless minting tool, anyone can create their own Secret NFTs or Secret Badges on Stashh. This page will walk you through the workflow so that you can create your own assets on Stashh right away.
+Hello creators! Using our minting tool, anyone can create their own Secret NFTs or Secret Badges on Stashh. This page will walk you through the workflow so that you can create your own assets on Stashh right away.
 
 ## Create a new collection
 
