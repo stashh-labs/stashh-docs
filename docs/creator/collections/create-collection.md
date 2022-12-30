@@ -6,7 +6,7 @@ title: Create a Collection
 
 !!! warning "Precondition"
 
-    You need to [connect](../../help/getting-started.md#connect-your-wallet) and [authenticate](../../help/getting-started.md#authenticate-your-wallet) your wallet and be in the [Creator Launchpad](../creator-launchpad.md) before you can create sBadges on Stashh
+    You need to [connect](../../help/getting-started.md#connect-your-wallet) and [authenticate](../../help/getting-started.md#authenticate-your-wallet) your wallet before you can create sBadges on Stashh
 
 1. Click the **Create** button on the top bar.
 2. Click the **Create New Collection** button.

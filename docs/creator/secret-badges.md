@@ -12,7 +12,7 @@ Collectors get sBadges by claiming them using one of the Claim Mechanisms. As a 
 
 !!! warning "Precondition"
 
-    You need to [connect and authenticate](../help/getting-started.md) your wallet and be in the [Creator Launchpad](../creator/creator-launchpad.md) before you can create sBadges on Stashh
+    You need to [connect and authenticate](../help/getting-started.md) your wallet before you can create sBadges on Stashh
 
 1. Click the **Create** button on the top bar
 2. Either [create a new collection](./collections/create-collection.md) or select an existing collection to create the sBadge in.

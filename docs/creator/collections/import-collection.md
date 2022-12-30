@@ -6,10 +6,6 @@ title: Import a Collection
 
 !!! warning
 
-    You need to be an approved creator in order to create or import collections on Stashh. For more details about how this works please read the [Creator Launchpad](../creator-launchpad.md) page
-
-!!! warning
-
     You must be authenticated with the wallet that owns the collection contract to be able to import it
 
 1. Make sure you are authenticated with your whitelisted wallet then click the Account Menu icon :duotone-user: on the navigation bar.
